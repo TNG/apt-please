@@ -1,14 +1,14 @@
 Package: please
 Architecture: all
-Version: 1.0.0
+Version: 0.0.7
 Priority: optional
 Section: base
 Maintainer: TNG Technology Consulting GmbH <info@tngtech.com>
 Filename: ./please.deb
-Size: 3914
-MD5sum: ca7a082ab45f17b9cfdc3ff78d6fd6b5
-SHA1: 7732379bb7e479137cfbc40c6de0ec10de2f25a2
-SHA256: 1b0326486b81a75bf276b19bb083c593c9336251101dd4a543db9e0ba2de2157
-SHA512: 207521b4936f212cc56b2fc792bea0c5ae1ac790d28680a129c6ffbfb1717a9d207a06abf3a4c277b4c25cd855c83fd5eca7e17ac68c591372f74a23833d1f75
+Size: 3912
+MD5sum: e03a296741dffb398186912bb84ec612
+SHA1: e7d2ececdee4a5203082ee1de7a97f322d673c3f
+SHA256: 684dae9220adf763839688894081c1e935b71fe73e3061a110e334251e8a936d
+SHA512: caf4c9374df68182f31783200c69d3be045e1c5ece121a36ece64207e31e4b815ee7c1ba3030dc7ed6f386fba982af8ce465316352e98c0db8fc49d15fd5a5d8
 Description: An AI helper script to create CLI commands
 
