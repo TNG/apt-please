@@ -6,6 +6,7 @@ This repository contains the apt repository for the Please CLI, an AI helper scr
 ## Installation
 
 ```bash
+curl -sS https://tng.github.io/apt-please/public_key.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/please.gpg > /dev/null
 echo "deb https://tng.github.io/apt-please/ ./" | sudo tee -a /etc/apt/sources.list
 sudo apt-get update
 
