@@ -1,15 +1,15 @@
 Package: please
 Architecture: all
-Version: 0.2.2
+Version: 0.3.0
 Priority: optional
 Section: base
 Maintainer: TNG Technology Consulting GmbH <info@tngtech.com>
 Depends: curl, jq, libsecret-tools, xclip
 Filename: ./please.deb
-Size: 5018
-MD5sum: 29c2d4b6ce7e4dbe2fffb149a91017a5
-SHA1: 20f2b1f1b1e5d7a5e6c07defd67ee8dfb2944a66
-SHA256: b77503563beffa6c257427f2494467dec80292ff1812f6e2cad610e4024d720d
-SHA512: 8dd76f65bdfb41a1a6a1545848375865bac14c7c159c2606907f09eb43256b4347763701e210aa2074f2c6c3bc44884ab7220944283e0b6010dd5eb0e9781582
+Size: 5628
+MD5sum: a5edef9f8cd7e5662aa97a7b2be17cd4
+SHA1: 2465a5911282cef013c9434f48e69ea5819b35b0
+SHA256: 660d36189a65591b648d216ffefc9c51fcae25eb84eb4cf54587926aaf993c1b
+SHA512: 9e8411579f2a3e7579db066c1f237ffdbdb1e019c4b73e03eda437037c68e826b060a3a8b23a93b38806c7945969be62685d0b39b1b0e86a1dfdd77bb5219e36
 Description: An AI helper script to create CLI commands
 
